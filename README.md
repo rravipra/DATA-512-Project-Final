@@ -102,6 +102,7 @@ Time series prediction for the next 25 years based on the smoke impact estimate:
 
 The prediction of the child mortality rates for the next 25 years based on the smoke impact estimates.
 
+![512_2](https://github.com/rravipra/DATA-512-Project-Final/assets/46725716/a2b8bfd3-0c89-48bc-8b3c-0ccce56d2119)
 
 # Considerations with the Data:
 
