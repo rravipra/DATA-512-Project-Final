@@ -73,7 +73,7 @@ For the fire_counts_final.json
 
 # Images of graphs acquired from the code outputs:
 
-The code also outputs many graphs which is present and is mentioned in detail in the google doc file like [here](https://docs.google.com/document/d/1ePp23lR5Txo646iXEQiWodc_BTwDIUuTXuEkLR6bTD4/edit?usp=sharing):
+The code also outputs many graphs which is present and is mentioned in detail in the Final_report pdf in this repository.
 
 Time series prediction for the next 25 years based on the smoke impact estimate: You can find the code in Calculate_AQI_estimate.ipynb:
 
