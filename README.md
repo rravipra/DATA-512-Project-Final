@@ -2,8 +2,6 @@
 
 Link to the reflection doc: https://docs.google.com/document/d/1ePp23lR5Txo646iXEQiWodc_BTwDIUuTXuEkLR6bTD4/edit?usp=sharing
 
-# PART 1:
-
 # Goal:
 
 The goal of the part 1 of this project is to answer the research question: what are the estimated smoke impacts on your assigned city for the last 60 years? by creating an annual estimate of wildfire smoke in a city that I am interested in which is Helena, Montana in my case:
@@ -26,6 +24,10 @@ Example notebooks epa_air_quality_history_example.ipynb and wildfire_geo_proximi
 Air Quality System (AQS) API: [Documentation](https://aqs.epa.gov/aqsweb/documents/data_api.html)
 
 Additional information on AQS: [here](https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata)
+
+I have downloaded all the three dataset from here for the extension plan: https://datausa.io/profile/geo/lewis-and-clark-county-mt
+
+Licensing for the datasets for the extension plan: https://www.countyhealthrankings.org/terms-use
 
 # Code files:
 
