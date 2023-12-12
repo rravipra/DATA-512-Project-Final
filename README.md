@@ -46,8 +46,9 @@ Air Quality System (AQS) API: [Documentation](https://aqs.epa.gov/aqsweb/documen
 Additional information on AQS: [here](https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata)
 
 I have downloaded all the three dataset from here for the extension plan: https://datausa.io/profile/geo/lewis-and-clark-county-mt
+The datasets can be found in Data_files in the repository and are Clinical Care.csv, Health Outcomes_child_mortality.csv, Health Outcomes_poor_fair_health.csv
 
-Licensing for the datasets for the extension plan: https://www.countyhealthrankings.org/terms-use
+Licensing for the datasets for the datasets extension plan: https://www.countyhealthrankings.org/terms-use
 
 # Code files:
 
