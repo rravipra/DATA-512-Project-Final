@@ -1,5 +1,7 @@
 # DATA-512-Project Final
 
+# Wildfire Impact Analysis in Helena, Montana, U.S.A with a focus on the imapacts on Healthcare.
+
 # Goal:
 
 The goal of this project is to answer a few research questions based on the wildfire smoke impacts in Helena, Montana.
