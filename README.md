@@ -35,6 +35,7 @@ The notebooks file in this repository are:
 
 - Calculate_smoke_impact.ipynb
 - Calculate_AQI_estimate.ipynb
+- Extension_plan.ipynb
 
 (These below two code example was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.0 - August 13, 2023
 - epa_air_quality_history_example.ipynb
