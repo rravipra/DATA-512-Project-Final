@@ -1,7 +1,5 @@
 # DATA-512-Project Final
 
-Link to the reflection doc: https://docs.google.com/document/d/1ePp23lR5Txo646iXEQiWodc_BTwDIUuTXuEkLR6bTD4/edit?usp=sharing
-
 # Goal:
 
 The goal of this project is to answer a few research questions based on the wildfire smoke impacts in Helena, Montana.
@@ -36,7 +34,6 @@ Below are the research questions that I am trying to answer in this project:
    - **Significance**: This goal aims to translate health impact estimates into actionable insights for healthcare planning, ensuring the community is well-equipped to handle future challenges posed by wildfires.
 
 These goals are critical for understanding the long-term effects of wildfires on urban centers like Helena, Montana. They aim to bridge the gap between historical data and future planning, offering a comprehensive view of the challenges and necessary responses to mitigate the impact of wildfires on public health and safety.
-
 
 # Data:
 
@@ -102,6 +99,8 @@ The code also outputs many graphs which is present and is mentioned in detail in
 Time series prediction for the next 25 years based on the smoke impact estimate: You can find the code in Calculate_AQI_estimate.ipynb:
 
 ![image](https://github.com/rravipra/DATA-512-Project/assets/46725716/c716b018-4777-48c4-b148-1014559d7089)
+
+The prediction of the child mortality rates for the next 25 years based on the smoke impact estimates.
 
 
 # Considerations with the Data:
