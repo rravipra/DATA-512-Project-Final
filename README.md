@@ -35,6 +35,8 @@ Below are the research questions that I am trying to answer in this project:
 
 These goals are critical for understanding the long-term effects of wildfires on urban centers like Helena, Montana. They aim to bridge the gap between historical data and future planning, offering a comprehensive view of the challenges and necessary responses to mitigate the impact of wildfires on public health and safety.
 
+Here is a link to the repository of the part 1 of this analysis project: [link](https://github.com/rravipra/DATA-512-Project/tree/main)
+
 # Data:
 
 Wildfire dataset: https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 from here download the GeoJSON Files.zip and use the USGS_Wildland_Fire_Combined_Dataset.json data.
